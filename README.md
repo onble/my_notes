@@ -1,2 +1,2 @@
-# my_notes
-My notes
+# 我的笔记
+这个项目存储了我用makedown写的一些学习前端的笔记
