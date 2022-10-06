@@ -1,3 +1,29 @@
+## git登录
+
+#### 修改全局用户名邮箱
+
+```
+git config --global user.name "(你自己的登录名)"
+git config --global user.emial "(你自己用的登陆邮箱)"
+```
+
+#### 修改代理
+
+```
+git config --global http.proxy http://127.0.0.1:1080
+git config --global https.proxy https://127.0.0.1:1080
+```
+
+##### 查看当前代理
+
+```
+git config --global http.proxy
+```
+
+
+
+## 创建项目与维护
+
 ##### 初始化
 
 1. 进入要管理的目录
@@ -86,6 +112,8 @@ git merge bug
 `git clone 远程仓库地址`
 
 ##### 拉取同步
+
+需要先克隆，然后项目被修改后再拉取
 
 `git pull 仓库别名 分支名`
 
