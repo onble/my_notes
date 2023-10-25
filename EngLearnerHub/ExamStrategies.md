@@ -55,3 +55,6 @@ __ of the n. 横线选名词
 
 - contempt 蔑视
 - admiration 欣赏
+- radical 极端的，激进的
+- conservative 保守的
+- humble 卑微的
