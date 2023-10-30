@@ -352,7 +352,20 @@ It was in 2014 that you got in 2014.
 You did get 80 in 2014.
 ```
 
+### 不定式
 
+```
+to加动原不定式，
+非谓不做谓语用，
+功能如同名形副，
+疑问副代可连用，	I wonder how to solve the problem.
+宾补有to分两种,	see sb do.	cause sb to do.
+前面加not是否定,	cause sb not to do.
+```
+
+疑问代词：what/who/which + to do(Vt及物).	what/who/which 在do后面做宾语
+
+疑问副词：whether/when/where/how + to do(Vi不及物) + O. whether/when/where/how只是做副词，不是宾语，后面要再加宾语。
 
 ## 单词用法
 
