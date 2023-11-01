@@ -21,9 +21,9 @@
 - sob 哭泣
 - sober 清醒
 - somber 郁闷
-
 - mess 混乱
 - message 消息
+- miss 错过；想念。错过了才会想念。小姐。
 
 lottery
 
