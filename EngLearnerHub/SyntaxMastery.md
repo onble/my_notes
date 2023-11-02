@@ -249,6 +249,8 @@ even though 一般引导让步状语从句
 
 until 时间状语从句的标志
 
+so that 结果状语从句
+
 - Beijing is planning to install air purifiers in schools as the city chokes on heavy smog. 原因状语从句
 
 ##### 定语从句
@@ -374,6 +376,24 @@ the place where/reason why
 >
 >   > But policymakers ... could avoid the forecasted doom and may even see progress.
 >   > 那些将注意力集中于改善民生而不仅仅是担忧GDP数值的 决策者不仅可以避免预期的悲观经济前景，甚至有可能有所进步。
+>
+> - Calls to disassemble all telescopes on Mauna Kea or to ban future development there ignore the reality that astronomy and Hawaiian culture both seek to answer big questions about who we are, whre we come form and where we are going.
+>
+>   > <font color='yellow'>Calls to disassemble all telescopes on Mauna Kea or to ban future development there</font> ignore the reality...
+>   > <font color='yellow'>(有的人)要求拆除位于Mauna Kea火山的望远镜或者禁止当地天文事业的发展，</font>这（种做法）忽视了这样一个事实：<font color='red'>天文和夏威夷文化意义，都试图寻找这些重大问题的答案——我们是谁？我们从哪来？要到哪去？</font>
+>
+> - His anslysis should therefore end any self-contentedness among those who may believe that the global position of English is so stable that the young generation of the United Kingdom do not need additional language capabilities.
+>
+>   > His analysis should therefore end any self-contentedness ...
+>   > 因此，他的分析会终止一些人的自我满足——这些人可能认为英语的世界地位非常稳固，因此英国年轻的一代不需要额外的语言能力。
+>
+> - But it's interesting to wonder if the images we see every week of stress-free, happiness-enhancing parenthood aren't in some small, subconscious way contributing to our own dissatisfactions with the actual experience, in the same way that a small part of us hopod getting "the Rachel" might make us look just a little bit like Jennifer Aniston.
+>
+>   > But it's interesting to wonder ...
+>   > the images ... aren't ... contributing to our own dissatisfactions with the actual experience,
+>   > a small part of us haped ...
+>
+> - 
 
 ### 平行结构
 
