@@ -23,6 +23,60 @@ __ of the n. 横线选名词
 
 ## 考研
 
+### 选词填空
+
+#### 20-2
+
+- instructive 富有教益的；增长知识的
+- inevitable 不可避免的
+- harsh 严厉的；苛刻的
+- vagus 含糊的；粗略的
+- overall 一般来说；总体上
+- instead 相反；反而
+- otherwise 否则；不然
+- however 然而；可是
+- defeated 击败；挫折
+- confronted (问题,困难等)临到(某人)头上
+- confused 使迷惑；使困惑
+- surprising 令人吃惊的；出人意料的
+- trying 恼人的；难以忍受的
+- emerge 浮现；摆脱；暴露
+- withdraw (使)撤回；(使)退出
+- escape 逃跑；逃避；避开
+- 
+
+#### 21-2
+
+- moreover 此外；而且
+- emphasize 强调；重视
+- identify 确认；找到
+- assess 评定；估算
+- explain 解释；说明
+- nearly 几乎；将近；差点儿
+- eagerly 热切地；渴望地
+- pinctuality 准时；守时
+- hospitality 殷勤好客；款待
+- innovation 创新；新思想
+- rather 有几分；有点儿；相反；反而
+- revenue 收益；收入
+- cautious 小心的；谨慎的
+- diligent 勤勉的；刻苦的
+- purpose 意图；目的；重要意义
+- revealed 揭示；透露
+- admitted 承认；供认
+- departure 起程；班次
+- transfer 中转；调动
+- moral 寓意；教益
+- interpret 诠释；说明；阐释
+- sacrifice 牺牲；舍弃
+- calling for 呼吁；公开要求
+- relating to 涉及；有关
+- accounting for 解释；说明
+- specify 明确说明；具体指定
+- restore 恢复；使复原
+
+
+
 ### 阅读
 
 #### 作者态度
