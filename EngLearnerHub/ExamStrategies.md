@@ -75,7 +75,34 @@ __ of the n. 横线选名词
 - specify 明确说明；具体指定
 - restore 恢复；使复原
 
+#### 22-2
 
+- combined A with B 将A和B结合
+- confused A with B 将A和B混淆
+- confront A with B 使A(某人)面对B(令人不快或难处的人或场合)
+- donate 捐赠；赠送
+- generate 产生；生成
+- calculate 计算；核算
+- condition 情况；条件
+- sacrifice 牺牲；舍弃
+- put up with 容忍；忍受(虽不情愿，但仍接受)
+- make up for 补偿；弥补
+- hang on to 紧握；保留；不放弃
+- cut down on 消减；减少
+- occasional 不经常的；偶尔的
+- rapid 快速的；瞬时的
+- in charge of 负责；主管
+- in addition 除...之外
+- indispensable 不可或缺的；必不可少的
+- innovative 革新的；创新的
+- invisible 看不见的；隐形的
+- instant 立即的；方便的；紧急的
+- duller 更乏味地
+- generously 慷慨地
+- at most (数量,程度)至多，不超过(某一数值)
+- in turn 依次；相应的；转而
+- above all 最重要的是；首先
+- 
 
 ### 阅读
 
@@ -114,6 +141,7 @@ __ of the n. 横线选名词
 - radical 极端的，激进的
 - conservative 保守的
 - humble 卑微的
+- defensive 为之辩护的
 
 #### 策略
 
