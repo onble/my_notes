@@ -14,6 +14,8 @@ Don't wait trouble troubles you.不要等到麻烦来麻烦你。这里trouble�
 
 I fogot how it felt to be held by you.来源：arrival
 
+Today is a gift.That's why it is called the "present".来源：B站用户签名
+
 # 考研文章
 
 ## 新题型

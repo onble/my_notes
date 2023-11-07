@@ -102,6 +102,28 @@ __ of the n. 横线选名词
 - at most (数量,程度)至多，不超过(某一数值)
 - in turn 依次；相应的；转而
 - above all 最重要的是；首先
+
+#### 23-2
+
+- purchase 购买；采购
+- predict 预计；预测
+- prioritize 优先考虑；给...以优选权
+- exclusively 专门地；排他地
+- potentially 潜在地；可能地
+- despite 尽管；即使
+- through 凭借；因为
+- besides 除...之外(还)
+- inspected 检查；审视
+- expanded 扩展；发展
+- reformed 改革；改进
+- insight 深入了解；深刻见解；洞见
+- allocating 分配；把...拨给
+- promoting 促进；推销；促销
+- at any rate 不管怎样；至少(用于引用更确切地说法)
+- by the way 顺带提一下
+- in a sense 某种意义上
+- serve 对...有用；能满足....的需要
+- alter 改变；更改
 - 
 
 ### 阅读
