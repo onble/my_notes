@@ -124,7 +124,28 @@ __ of the n. 横线选名词
 - in a sense 某种意义上
 - serve 对...有用；能满足....的需要
 - alter 改变；更改
-- 
+
+#### 09
+
+- dimmer 更暗淡的；更愚笨的
+- inclination 倾向，意愿
+- priority 优先事项
+- turns out 证明是；结果是
+- puts forward 提出；建议
+- spontaneous 自动的
+- inevitable 不可避免的
+- indefinite 期限不定的；模糊不清的
+- perform 做，履行，执行
+- in contrast 相比之下
+- determine 查明，测定
+- above all 最重要的是
+- after all 终究；毕竟
+- comprehensive 详尽的
+- equivalent 相等的
+- by accident 偶然
+- in time 及时
+- so far 迄今为止
+- better still 更好的是
 
 ### 阅读
 
