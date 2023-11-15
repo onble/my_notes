@@ -147,6 +147,35 @@ __ of the n. 横线选名词
 - so far 迄今为止
 - better still 更好的是
 
+#### 08
+
+- obliged 被迫做
+- rare 稀罕的，珍贵的
+- subsequently 随后，后来
+- presently 目前，马上
+- previously 以前，先前
+- calculating 计算；估计
+- disproportionayely 不相称的
+- indefinitely 无期限的
+- unaccountably 莫名其妙的
+- affirm 肯定，证实
+- witness 为...的证据
+- observe 看到；遵守
+- approve 赞成，同意
+- given up 留出...给
+- got over 使理解
+- carried on 继续做；进行
+- put down 把(某事)归因于
+- valuing 尊重，重视
+- supervising 监督，指导
+- instrument 工具；重要因素
+- subjected 使遭受，经历
+- converted 使转变
+- paradoxical 似非而是的，自相矛盾的
+- incompatible 不能并存的
+- inevitable 不可避免的
+- continuous 持续的
+
 ### 阅读
 
 #### 作者态度
