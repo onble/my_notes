@@ -16,6 +16,8 @@ I fogot how it felt to be held by you.来源：arrival
 
 Today is a gift.That's why it is called the "present".来源：B站用户签名
 
+May the odds be ever in your favor. 希望好运永远站在你这边。——饥饿游戏1
+
 # 考研文章
 
 ## 新题型

@@ -176,6 +176,25 @@ __ of the n. 横线选名词
 - inevitable 不可避免的
 - continuous 持续的
 
+#### 07
+
+- inhabitants 居民
+- presumably 很可能
+- incidentally 顺便提一句
+- generally 普遍的
+- common 共同的
+- particular 特指的；特别的
+- preached 布道；宣扬（信仰的优点）
+- granted 同意
+- funded 资助
+- interference 干涉，介入
+- exclusion 排斥，排除
+- influence 影响，作用
+- cry 叫喊；口号
+- remaining 剩余的，残存的
+- produced 引起，带来
+- 
+
 ### 阅读
 
 #### 作者态度
