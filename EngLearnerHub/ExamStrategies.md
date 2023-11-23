@@ -193,7 +193,60 @@ __ of the n. 横线选名词
 - cry 叫喊；口号
 - remaining 剩余的，残存的
 - produced 引起，带来
-- 
+
+#### 05
+
+- committed 致力于；承诺
+- dedicated 致力于
+- confined 被限制
+- anyway 总之
+- instead 代替；反而
+- even if 虽然，即使
+- if only 但愿；但愿
+- only if 只有在...的时候
+- as if 好像，仿佛
+- distinguishing 辨别；看清
+- determining 查明，测定
+- detecting 察觉
+- diluted 使稀释；削弱
+- dissolved 溶解
+- dispersed 分散
+- diffused 扩散；传播
+- whereas 而
+- stimuli 刺激(物),促进因素
+- left 被留交；遗赠
+- exposed 接触到
+- ineffective 无效果的
+- incompetent 不胜任的
+- inefficient 效率低的
+- insufficient 不充分的
+- introduce 推行；引进
+- summon 召集；召唤
+- create 创造
+- repel 推开；使厌恶
+- neglect 忽视
+
+#### 04
+
+- centering on 围绕；集中于...
+- interaction 互相作用，影响
+- assimilation 同化，融入
+- consultation 咨询
+- discarding 丢弃，抛弃
+- resistant 有抵抗力的
+- sensitive 敏感的；有感知力的
+- in general 通常，一般说来
+- by contrast 对比起来
+- at length 最后；详细地
+- in case 假设，如果，万一
+- undertaken 承担，从事
+- contrarily 相反地
+- consequently 所以，因此
+- simultaneously 同时地
+- heritage 遗产
+- assessable 可估价的
+- identifiable 可识别的
+- incidence 发生(率)
 
 ### 阅读
 
