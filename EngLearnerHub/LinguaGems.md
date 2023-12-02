@@ -18,6 +18,8 @@ Today is a gift.That's why it is called the "present".来源：B站用户签名
 
 May the odds be ever in your favor. 希望好运永远站在你这边。——饥饿游戏1
 
+To anybody reading this, I pray that whatever is hurting you or whatever you are constantly stressing about gets better. May the dark thoughts, the overthinking, and the doubt exit your mind may clarity replace confusion. may peace and calmness fill your life.
+
 # 考研文章
 
 ## 新题型
