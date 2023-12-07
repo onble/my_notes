@@ -20,6 +20,8 @@ May the odds be ever in your favor. 希望好运永远站在你这边。——�
 
 To anybody reading this, I pray that whatever is hurting you or whatever you are constantly stressing about gets better. May the dark thoughts, the overthinking, and the doubt exit your mind may clarity replace confusion. may peace and calmness fill your life.
 
+success is not final,failure is not fatal.It is the courage to continue that counts.——winston chuurchill  成功不要紧，失败不致命。拥有继续前行的勇气，才最可贵。——温斯顿丘吉尔 电影：《至暗时刻》
+
 # 考研文章
 
 ## 新题型

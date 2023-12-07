@@ -40,6 +40,21 @@
 
 3. 后置定语前置翻译
 
+---
+
+1. 找动词
+   ![image-20231206192536797](SyntaxMastery.assets/image-20231206192536797.png)
+2. 找并列/从句
+   ![image-20231206192623432](SyntaxMastery.assets/image-20231206192623432.png)
+3. 找主干
+   ![image-20231206192651048](SyntaxMastery.assets/image-20231206192651048.png)
+
+---
+
+长难句分析：能够快速识别各个名词性从句，并通顺翻译出来。
+
+
+
 ### 从句
 
 从句的种类：
@@ -136,6 +151,28 @@
 
 名词能做什么，则有对应的名词性从句。
 
+名词在句子中能充当的成分，全部用从句表达，这就是名词性从句。
+
+名词组成的成分
+
+1. 主语
+   e.g. The movie proves marvellous.
+2. 宾语
+   e.g, I appreciate the actress.
+3. 表语
+   e.g. She is a teacher.
+4. 同位语
+   e.g. We found out the fact, the murder.
+
+###### 引导词
+
+名词性从句引导词共分为三类
+
+1. That+陈述句（that不充当任何成分和意思）
+2. whether+一般疑问句（1.whether在从句中不充当任何成分，意思翻译成”是否“；2.一般疑问句改成陈述句语序）
+3. 所有特殊疑问词（wh-）+特殊疑问句
+   p.s. 英语中所有从句一定是陈述句形式，即 引导词+主语+谓语
+
 ##### 主语从句
 
 1. 主语是个从句
@@ -156,6 +193,13 @@
 
 - Whether smog will continue next week is unclear.
 
+主语从句识别：
+
+> 1. 引导词放句首，并且从句后没有逗号，一定是主语从句。
+>    主语从句从句首开始，到主句谓语动词前为止。
+> 2. it...that也应当为主语从句，从that开始，到句末结束。
+>    it...that也有可能是强调句型，若是把it..that去掉后，剩下的是完整的句子，则是强调句型
+
 ##### 宾语从句
 
 S + V + 从句
@@ -174,19 +218,39 @@ S + V + 从句
 
 - People think that heavy smog may cause cancer.
 
+---
+
+宾语从句识别：实义动词后面有引导词多为宾语从句（也可能是状语从句）
+宾语从句若为that引导，that可以省略。
+
 ##### 表语从句
 
 表语是个从句
 
 - One of the causes of smog is that there is much coal emissions in cities.
 
+---
+
+表语从句识别：系动词后面引导词引出的句子为表语从句。
+
 ##### 同位语从句
 
 同位语是个从句
 
+同位语是两句话省略的结果；
+同位语起解释说明的作用；
+同位语本身是名词；
+同位语跟在名词后面。
+
+我喜欢电影的结局。
+I enjoy the end of the movie.
+I enjoy the part of the movie, the end.
+同位语不一定紧跟要解释的名词的后面
+He got the news from Mary that the sport's meeting was put off.
+
 S, 同位语, + V + O
 
-可以跟同位语从句的名词是抽象名词，通常有news,idea,fact,promise,question,doubt,thought,hope,message,suggestion,words(消息),possibility,decision,view等，一般的"抽象"名词
+可以跟同位语从句的名词是抽象名词，通常有news,idea,fact,promise,question,doubt,thought,hope,message,suggestion,words(消息),possibility,decision,view，truth,dream,theory，opinion，assumption(假设)等，一般的"抽象"名词
 
 同位语从句与定语从句的不同：
 
@@ -219,6 +283,11 @@ S, 同位语, + V + O
   > Bu the idea ... rests on an understanding of the established conventions and special responsibilities of the news media.
   > 新闻记者应该比普通民众更透彻地了解法律。
   > 这种看法是基于他们对新闻媒体业已确立的规约和特殊责任的理解。
+
+---
+
+同位语从句识别：名词后面跟了引导词引导的句子，且句子内容完整，则为同位语从句。
+同位语从句容易和定语从句搞混，两者都在that后出现，从句主干完整是同位语从句，从句主干不完整则是定语从句。
 
 #### 修饰性从句
 
@@ -255,6 +324,85 @@ so that 结果状语从句
 
 ##### 定语从句
 
+修饰名词或代词的成分叫定语。
+
+一般翻译成 ...的+名词
+
+定语的词性
+
+> 1. adj
+>    The little Prince
+> 2. n
+>    the rose of the little price 小王子的玫瑰花
+>    pay gap 收入差距
+> 3. 介词短语
+>    a little prince in green 绿衣服的小王子
+>    the rose out of the window 窗外的玫瑰
+>    介词短语就因为长度会永远放在名词后面
+> 4. 非谓语动词
+>    His efforts to carry out the task is admirable.
+>    The fly flying to Beijing is admirable.
+>    The flying fly is admirable.
+>    The broken heart hurts.
+> 5. 形容词性物主代词
+>    my book
+>    your sister
+
+---
+
+1. 构成
+   n(先行词) + 引导词 + 句子
+
+2. 引导词
+
+   - 按先行词种类分五类
+
+     1. 先行词为人，引导词who/whom/whose/that
+     2. 先行词为物，引导词that/which/whose
+     3. 先行词为时间词，引导词为that/which/when
+     4. 先行词为地点词，引导词为that/which/where
+     5. 先行词为reason，引导词为that/which/why
+
+     由whose,when,where,why引导的定语从句，从句主干完整
+
+   - 按引导词本身词性分类
+     1. 关系代词：who/whom/that/which在从句中一定要充当主语或宾语
+     2. 关系副词：when/where/why在从句中不充当成分
+     3. 形容词：whose在从句中修饰最近的名词
+        Sheryl Sandberg is a writer whose books are popular.
+        The book whose author is Sheryl Sandberg is popular.
+        whose可以跟人也可以跟物
+
+3. 定语从句特殊用法
+
+   >1. 如果先行词和引导词间有介词，先行词为人，只可用whom(不用who)
+   >   先行词为物，只可用which(不用that)
+   >   I will never forget the day on which I met you.
+   >   He is the man who/whom/that we should learn from.
+   >   定语从句引导词前有介词，该介词来自于
+   >   1. 从句中的动词词组
+   >   2. 与先行词的搭配
+   >2. 区分限制性和非限制性定语从句
+   >   The boys who knew about the floods took another road. 限制性定语从句
+   >   The boys, who knew about the floods, took another road. 非限制定语从句
+   >   非限制定语从句的先行词
+   >   1. 是它前面最近的名词或代词
+   >   2. 是它前面整个句子
+   >3. that引导定语从句，若that在从句中充当宾语，that可以省略。
+   >   分析长难句时，两个名词或代词或一个名词和一个代词在一起，中间没有被连词或标点隔开，通常都是省略了that的定语从句。
+   >   I collected some books you don't have.
+   >   I just met a lady I saw last week.
+   >4. the same...as  the same..that
+   >   He is the same man that I love. 是
+   >   He is the same man as I love. 像/正如
+   >   作为定语从句as引导的一定不完整，如果完整就是状语从句，可以限制性定语从句，也可以是非限制性定语从句
+
+定语的位置
+
+> 短前长后：一个词放名词/代词前；多个词放名词/代词后（后置定语）
+> 例外：形容词修饰不定代词（something/anything/nothing）时，放其后
+> something special
+
 定语从句做后置定语：
 
 > 名词/代词+连接词+从句 + 谓语 + 宾语 = 一个完整句子
@@ -274,6 +422,8 @@ the place where/reason why
 ```
 
 定从省略:
+
+英语中一共两个省略，一个是宾语从句that省略，一个就是定语从句that省略
 
 ```
 定从省略分两种。	
@@ -449,12 +599,47 @@ the place where/reason why
 
 ### 并列句
 
+#### 基本特征
+
+##### 定义
+
+由并列连词把两个或以上简单句连在一起的句子
+e.g. You are a smart girl but don't work hard.
+
+##### 识别
+
+简单句+并列连词+简单句
+e.g. Hurry up or you'll be late.
+
+#### 并列连词
+
 并列句的连接词：
 
 > - and
 > - but
 > - or
 > - nor
+
+1. 平行关系：and, not only...but also, both...and  equally, likewise, similarly, at the same time, in the meanwhile
+2. 转折关系：but, yet, while, whereas  however, nevertheless, conversely, unexpectedly, on the contrary, by contrast
+3. 选择关系：or  alternatively
+4. 递进关系：then  besides, furthermore, moreover, in addition, subsequently
+5. 因果关系：for, so  therefore, thus, as a result/consequence, consequently
+
+#### 表现形式
+
+##### 常规形式
+
+完整简单句+并列连词+完整简单句
+
+##### 特殊形式
+
+- 完成简单句；完整简单句
+
+- 省略
+
+  > - He will work hard and (he will) pass the exam.
+  > - (You) Hurry up or you'll be late.
 
 ### 否定句
 

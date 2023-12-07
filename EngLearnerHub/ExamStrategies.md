@@ -293,9 +293,75 @@ __ of the n. 横线选名词
 
 大家所钟情相信的，必然是作者反对的。
 
+#### 背景
+
+Sheryl Sandberg 和她的书lean in 在考研英语1出现3次，英语2出现2次，出现就是关于性别不平等的话题
+
 ### 作文
 
 1. 考研作文以一般现在时为主
 2. 中文多主动句型，英文多被动句型
 3. 考研写作三层次：词汇——词组——句型，词组比词汇高级，句型比词组高级
 4. 每句都用主语开头，文章太单调，可以尝试使用状语作开头。
+
+#### 逻辑关系词
+
+1. 平行关系：equally, likewise, similarly, at the same time, in the meanwhile
+2. 转折关系：however, nevertheless, conversely, unexpectedly, on the contrary, by contrast
+3. 选择关系：alternatively
+4. 递进关系：besides, furthermore, moreover, in addition, subsequently
+5. 因果关系：therefore, thus, as a result/consequence, consequently
+
+#### 主语从句
+
+主语从句的高分表达是把主语从句放句末，前面用it做形式主语
+
+
+
+#### 凑字数
+
+and = as weel as
+
+众所周知
+
+> - It keeps common knowledge that...
+> - It looks beyond dispute that...
+> - It is universally acknowledged that...
+> - It has been widely accepted that...
+
+It keeps my perspective that...=I think that
+
+
+
+#### 委婉语
+
+old man = senior citizens
+
+ugly = plain/homely
+
+fat = big
+
+die = pass by
+
+### 翻译
+
+#### 同位语从句
+
+在翻译同位语从句前加”即“，来告诉阅卷老师你看出来是同位语从句了
+
+#### 定语从句
+
+定语从句是考研翻译中考察最多的句型
+
+Allen's contribution was to take an assumption we all share—that because we are not robots we therefore control our thoughts—and reveal its erroneous nature.
+艾伦的贡献是提出了一个我们都认可的假设并揭露其错误的本质，即因为我们不是机器人，因此我们可以控制我们的想法。
+
+定语从句的翻译：
+
+> 前置翻译法
+>
+> 1. 定语从句结构简单（定语从句长度小于整个从句的三分之一）
+>
+> 2. 把定语从句翻译到它所修饰的先行词前，并常常用”的“来衔接
+>
+>    
