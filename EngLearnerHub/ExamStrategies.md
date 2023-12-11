@@ -250,6 +250,14 @@ __ of the n. 横线选名词
 
 ### 阅读
 
+考研中，虚拟语气是考点，要么不出现，出现就是选择题选项
+
+今昔对比，必为相反
+
+> 考研中有一种套路文章，前面是说以前，下一段就说现在
+> 今：now,today,recently,nowdays,现在时
+> 昔：ago,before,used to do,过去时
+
 #### 作者态度
 
 考研英语阅读理解部分确实有时会出现询问作者态度或观点的题目。选择正确答案需要考生对文章整体理解深刻，精准把握文章的主旨和作者的意图。当然，有一些选项在特定的情境下很可能是"陷阱"选项，例如你提到的"indifferent"（漠不关心的）。
@@ -296,6 +304,42 @@ __ of the n. 横线选名词
 #### 背景
 
 Sheryl Sandberg 和她的书lean in 在考研英语1出现3次，英语2出现2次，出现就是关于性别不平等的话题
+
+#### 虚拟语气
+
+![image-20231207202012244](ExamStrategies.assets/image-20231207202012244.png)
+
+---
+
+![image-20231207210015072](ExamStrategies.assets/image-20231207210015072.png)
+
+![image-20231207210054288](ExamStrategies.assets/image-20231207210054288.png)
+
+![image-20231207210111224](ExamStrategies.assets/image-20231207210111224.png)
+
+![image-20231207210123136](ExamStrategies.assets/image-20231207210123136.png)
+
+#### 文化背景
+
+##### 经济
+
+并购：merge=acquisition=combination=concentration=consolidation
+
+垄断：monopoly
+
+##### 教育
+grants 奖学金
+loans 贷款
+work-study 工读金
+
+###### 金融行业协会
+
+ABA(American Bar Association) 全美律师工会
+AALS(Association of American Law School)全美法学院协会
+AALL(Association of American Law Library)全美法律图书馆馆员协会
+
+Bar Examination(司法考试)
+一年两次 七月与二月的最后一个星期三
 
 ### 作文
 
@@ -361,7 +405,19 @@ Allen's contribution was to take an assumption we all share—that because we ar
 > 前置翻译法
 >
 > 1. 定语从句结构简单（定语从句长度小于整个从句的三分之一）
->
 > 2. 把定语从句翻译到它所修饰的先行词前，并常常用”的“来衔接
 >
->    
+> [2003-61] Furthermore, humans have the ability to modify the environment in which they live.
+> 此外，人类有能力改变[(in which) 他们居住]的环境
+>
+> 后置翻译法
+>
+> 1. 定语从句结构复杂
+> 2. 翻译的时候后置，这时常常需要重复先行词或用代词重复
+
+![image-20231207191829501](ExamStrategies.assets/image-20231207191829501.png)
+
+![image-20231207191844194](ExamStrategies.assets/image-20231207191844194.png)
+
+![image-20231207191857568](ExamStrategies.assets/image-20231207191857568.png)
+

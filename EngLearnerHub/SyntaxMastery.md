@@ -40,7 +40,7 @@
 
 3. 后置定语前置翻译
 
----
+
 
 1. 找动词
    ![image-20231206192536797](SyntaxMastery.assets/image-20231206192536797.png)
@@ -52,6 +52,28 @@
 ---
 
 长难句分析：能够快速识别各个名词性从句，并通顺翻译出来。
+
+---
+
+长难句处理方法二——拆分法
+
+1. 拆分——断开句子，长句变短
+   断句点：连词，引导词，介词，非谓语动词，标点符号
+   and, that, in, to do/doing/done, ;
+2. 翻译——短句各自翻译
+   以每两道竖线之间的小结构为单位，写下汉字。
+3. 连接——连接各个短语 构建句内逻辑
+   把每两个小节连接为通顺的句子，这时候需要把一些不通顺的词语替换掉，或者适当调整顺序。
+4. 整合——语言表达习惯检验
+   检查译文是否与中文的表达习惯一致，对原始译文进行调整。
+
+![image-20231208171731292](SyntaxMastery.assets/image-20231208171731292.png)
+
+![image-20231208172005620](SyntaxMastery.assets/image-20231208172005620.png)
+
+![image-20231208172213774](SyntaxMastery.assets/image-20231208172213774.png)
+
+![image-20231208172229037](SyntaxMastery.assets/image-20231208172229037.png)
 
 
 
@@ -301,6 +323,106 @@ S, 同位语, + V + O
 
 ##### 状语从句
 
+###### 副词
+
+1. 副词能充当的成分
+
+   > 状语：
+   > She runs away rapidly. 副词修饰动词
+   >
+   > She looks distinctly rapid. 副词修饰形容词 very good
+   >
+   > She runs away extremely rapidly. 副词修饰副词 very much
+   >
+   > Actually,she runs away. 副词修饰句子
+
+2. 什么是状语：
+   在一句话中修饰实义动词，形容词，副词，整个句子的成分。
+   表状态或程度。
+
+3. 状语的词性
+
+   1. 副词
+      She runs away rapidly.
+   2. 介词短语
+      She runs away,with a smile in her face. 介词做伴随状语
+   3. 非谓语动词
+      She runs away,opening her mouth. 伴随状语
+      She runs away to catch the first bus. 目的状语
+      She runs away,heart broken. 原因状语
+
+   介词短语和非谓语动词既能做状语还能做定语。做定语时候要跟着名词，但做状语跟动词和句子
+
+4. 状语的位置：随便放
+   She runs away rapidly.
+   Rapidly she runs away.
+   She runs rapidly away.
+
+5. 状语从句
+
+   1. 状语从句按引导词的意思分类
+
+      | 状语从句种类 | 常见从属连词                                                 |
+      | ------------ | ------------------------------------------------------------ |
+      | 时间状语从句 | when,**while**,**as**,before,after,**since**,until,as soon as |
+      | 地点状语从句 | where                                                        |
+      | 原因状语从句 | because,**as**,for,**since**,in that                         |
+      | 目的状语从句 | so that,in order that                                        |
+      | 结果状语从句 | so ... that,so that, such ... that                           |
+      | 条件状语从句 | if,unless, **as**/so long as, once                           |
+      | 让步状语从句 | although,though,even though/if,**while**                     |
+      | 比较状语从句 | **as**,than                                                  |
+      | 方式状语从句 | **as**,as if                                                 |
+
+      三个海王词：
+
+      - as
+      - since
+      - while
+        时间状语：当...时
+        让步状语：尽管
+        引导并列句：然而
+
+   2. 状语从句中的重点句型
+      时间状语从句
+
+      - when系（但...时）：as soon as, as, the moment 那一时刻, the minute 那一分钟, the second 那一秒, instantly 立刻, immediately...
+        ____ the baby saw his father,he starts crying.上面这些都可以填入
+        the moment/mimute/second + 句子：当...时候 这时就是从属连词
+        instantly/immediately+句子：当...时 这时也是从属连词
+      - 一...就...：No sooner...than;Hardly...when;scarcely...when
+        He had no sooner taken the medicine than he died.
+      - 一旦...:once. as soon as
+        Once you understand it, you will have no further difficulty.
+        As soon as you understand it, you will have no further difficulty.
+
+      条件状语从句
+      if系：suppose (that), supposing (that), provided (that), providing (that), assuming (that), if only, only if ... 如果
+      ![image-20231208165706493](SyntaxMastery.assets/image-20231208165706493.png)
+
+      目的状语从句
+
+      - “为了”系：in order that + 从句； so that + 从句（如果，so和that分开，so...that..如此...以至于，that引导是结果状语从句）
+      - "为了不"系：in case + 从句：(should) + v.
+        lest + 从句：（shoule）+ v. 唯恐；以免
+        e.g. In case I (should) get ill in the future, I bought the huge insurance.
+        注意用到了虚拟语气
+
+      比较状语从句
+      多-肯定  少-否定
+      A more than B; = more A than B = A比B多 A肯B否
+      与其（说）B，不如（说）A
+      A less than B; = less A than B = A比B少 A否B肯
+      与其A,不如B
+      A as much as B; = as much A as B = AB一样多 AB肯
+      不仅A，而且B；既A，又B；亦A亦B
+      A not so much as B; = not so much A as B = A少B多 A对
+      与其（说）A，不如（说）B
+
+      
+
+---
+
 ```
 状从省略三要求，
 从句引导特殊词，
@@ -396,6 +518,14 @@ so that 结果状语从句
    >   He is the same man that I love. 是
    >   He is the same man as I love. 像/正如
    >   作为定语从句as引导的一定不完整，如果完整就是状语从句，可以限制性定语从句，也可以是非限制性定语从句
+
+4. 定语从句V.S.同位语从句
+   n.+that从句
+
+   > - that引导同位语从句：三不原则
+   >   that不当成分，不具含义，不可省略
+   > - that引导定语从句：三有原则
+   >   有成分，有含义，有时可省略（that在从句做宾语）
 
 定语的位置
 
@@ -542,8 +672,26 @@ the place where/reason why
 >   > But it's interesting to wonder ...
 >   > the images ... aren't ... contributing to our own dissatisfactions with the actual experience,
 >   > a small part of us haped ...
->
-> - 
+
+#### as
+
+- 定语从句（正如）不完整句子
+
+- 状语从句
+
+  > - 时间状从“随着...”","一边...一边..."
+  > - 原因状从“因为，由于”=seeing that
+  > - 方式状从“正如”完整句子
+  > - 让步状从“”尽管
+  > - 比较状从
+  >   - as much as
+  >   - not so much ... as
+
+- 常见搭配
+
+  > - as well 也
+  > - as a whole 作为一个整体
+  > - as yet 迄今
 
 ### 平行结构
 
@@ -748,14 +896,44 @@ I am older than you.这个是比较级
 - 实义动词
   eat;have;love;make;
   具有实在的意思
+  及物动词（vt.） 不及物动词（vi.）
+  及物动词：必须加宾语
+  不及物动词：加介词才能加宾语，可以不加宾语
+  大多数动词及物不及物兼具
+  Class begins
+  Let's begin our class
+  
 - 情态动词
   can;could;may;might;must;shall;should
   表示情绪，态度，推测
+  1. 表达说话人主观态度的词
+  
+  | 词义       | 情态动词               | 情态动词词组                                                 |
+  | ---------- | ---------------------- | ------------------------------------------------------------ |
+  | 能够       | can,could              | be able to, be capable of                                    |
+  | 可能       | may,might,can,could    | be likely to, be possible to                                 |
+  | 意愿，打算 | will,would,be going to | be willing to, wish to do                                    |
+  | 应该       | shall,should,must,need | be suggested to, be advised to, be supposed to, be required to |
+  
+  2. 对过去的推测
+     must have done 过去一定做过某事
+     couldn't have done 过去一定没做到某事
+     needn't have done 本没必要做某事，但做了
+     could have done 本能够做某事，但没做（表遗憾）
+     should have been 本应该做某事，但没做（没遗憾）
+  
 - 助动词
   do;will;shall;have
   陈述句变疑问句；强调语气
+  在一句话中帮助谓语构成时态，语态，否定，疑问的词
+  I **am** having an English class.
+  I **am going to** be a lawyer.
+  I **am** beated.
+  I **don't** love you.
+  
 - 系动词
   六类:
+  
   - be动词
     am;is;are
   - 感官类
@@ -797,6 +975,28 @@ I am older than you.这个是比较级
 > - 现在进行时
 > - 现在完成时
 > - 过去完成时
+
+|          | 过去           | 现在               | 将来                           | 过去将来                       |
+| -------- | -------------- | ------------------ | ------------------------------ | ------------------------------ |
+| 一般     | did(was/were)  | do/dose(am/is/are) | will do(am/is/are going to do) | would do(was/were going to do) |
+| 进行     | was/were doing | am/is/are + doing  |                                |                                |
+| 完成     | had + done     | have/has + done    |                                |                                |
+| 完成进行 |                |                    |                                |                                |
+
+
+
+| 中文                             | 英文                 |
+| -------------------------------- | -------------------- |
+| 他（过去）被打了。               | He was beaten.       |
+| 他（现在）被打了。               | He is beaten.        |
+| 他将会（现在的将来）被打。       | He will be beaten.   |
+| 他将会（过去的将来）被打。       | He would be beaten.  |
+| 他过去正在被打。                 | He was being beaten. |
+| 他现在正在被打。                 | He is being beaten.  |
+| 他过去已经（过去的之前）被打了。 | He had been beaten.  |
+| 他现在已经（现在的之前）被打了。 | He has been beaten.  |
+
+
 
 ##### 情态
 
@@ -1156,6 +1356,54 @@ Ahead of us is the Great wall. 全倒装，强调前面。
 ```
 
 
+
+### 虚拟语气
+
+表示与事实相反或语气委婉
+
+1. 一般用法
+
+   > if一道条件状语从句的同时，也有可能是虚拟语气
+   >
+   > If she invites me, I will go to the party.错误
+   >
+   > If she invited me, I would go to the party.虚拟语气（退一步 海阔天空）
+   >
+   > If I was there, I would help you.错误
+   >
+   > If I had been there, I would have helped you.虚拟语气（退一步 海阔天空）
+   >
+   > if引导虚拟语气:
+   >
+   > | 虚拟           | if从句                            | 主句                               |
+   > | -------------- | --------------------------------- | ---------------------------------- |
+   > | 与过去事实相反 | had done                          | would/should/could/might have done |
+   > | 与现在事实相反 | did/were                          | would/should/could/might do        |
+   > | 与将来事实相反 | 1.did/were2.should do3.were to do | would/should/coould/might do       |
+   >
+   > 判断if引导的是否是虚拟语气，就看四大金刚（would/shoul/could/might）是否出现，只要出现了，就是标标准准的虚拟语气
+   > 从句时态会在主句时态上退一步（退一步海阔天空）
+   >
+   > if引导虚拟条件句的倒装
+   > 当if引导的虚拟条件句中有助动词had,were或should时，可省略if，将had,were或should放到句首，句意不变。
+
+2. 特殊用法
+
+   1. 一下情感从句用should+动词原形表虚拟，should可省略
+      以防：in case that/lest/for fear that
+      命令：order/command
+      建议：advise/suggest/propse
+      要求：ask/request/require
+   2. 以下情况从句用一般过去时表示虚拟
+      would rather 宁愿
+      it is high time that... 时时候...
+      e.g. It is high time that all focused on the issue.
+      I would rather that you were happier.
+   3. 以下情况若把本来时态变成过去时则表示虚拟，否则为正常句子
+      wish(wish一般不能实现，hope能实现)
+      if only 如果...该多好哇
+      but for 要不是
+      as if/though 好像
 
 ## 单词用法
 
