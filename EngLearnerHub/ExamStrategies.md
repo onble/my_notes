@@ -387,6 +387,10 @@ fat = big
 
 die = pass by
 
+#### 句型
+
+- **Relying on ethical persuasion** rather than law to **address the misuse of body ideals** may be the best step. 依靠道德劝说而不是法律来应对理想身材标准的误用可能是最好的措施。
+
 ### 翻译
 
 #### 同位语从句
