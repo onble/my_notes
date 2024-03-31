@@ -77,3 +77,86 @@ v-on:click 绑定事件
 v-for 遍历
 
 v-model 双向绑定表单
+
+## 组件通信
+
+通信仓库地址：https://gitee.com/jch1011/vue3_communication.git
+
+**props**:可以实现父子组件，子父组件，甚至兄弟组件通信
+
+**自定义事件**:可以实现子父组件通信
+
+**全局事件总线$bus**:可以实现任意组件通信
+
+**pubsub**:发布订阅模式实现任意组件通信
+
+**vuex**:集中式状态管理容器，实现任意组件通信
+
+**ref**:父组件获取子组件实例VC，获取子组件的响应式数据以及方法
+
+**slot**:插槽（默认插槽，具名插槽，作用域插槽）实现父子组件通信.....
+
+### 1.1 props
+
+props可以实现父子组件通信，在vue3中我们可以通过defineProps获取父组件传递的数据。且在组件内部不需要引入defineProps方法可以直接使用！
+
+### 1.2 自定义事件
+
+在vue框架中事件分为两种：一种是原生的DOM事件，另外一种自定义事件。
+
+原生DOM事件可以让用户与网页进行交互，比如click,dbclick,change,moseenter,mouseleave...
+
+自定义事件可以实现子组件给父组件传递数据
+
+#### 1.2.1 原生DOM事件
+
+代码如下:
+
+```html
+<pre @click="handler">
+	我是祖国的老花朵
+</pre>
+```
+
+当前代码给pre标签绑定原生DOM事件点击事件，默认回给事件回调主任event事件对象。当点击事件想注入多个参数可以按照下图操作。但是切记注入的事件对象务必叫做$event。
+
+```html
+<div @click="handler(1,2,3,$event)">
+    我要传递多个参数
+</div>
+```
+
+在vue3框架click,dbclick,change(这类原生DOM事件)，不管是在标签，自定义标签上（组件标签）都是原生DOM事件。
+
+但在vue2中却不是这样的，在vue2中组件标签需要通过native修饰符才能变为原生DOM事件
+
+#### 1.2.2 自定义事件
+
+### 1.3 全局事件总线
+
+全局事件总线可以实现任意组件通信，在vue2中可以根据VM与VC关系推出全局事件总线。
+
+但是在vue3中没有Vue构造函数，也就没有Vue.prototype.以及组合式API写法没有this,
+
+那么在Vue3想实现全局事件的总线功能就有点不现实啦，如果想在Vue3中使用全局事件总线功能可以使用插件mitt实现。
+
+mitt官网地址：https://www.nmpjs.com/package/mitt
+
+### 1.4 v-model
+
+v-model指令可以是收集表单数据（数据双向绑定），除此之外它也可以实现父子组件数据同步。
+
+而v-model实指利用props[modelValue]与自定义事件[update:modelValue]实现的。
+
+下方代码：相当于给组件Child传递一个props(modelValue)与绑定一个自定义事件update:modelValue实现父子组件数据同步
+
+```html
+<Child v-model="msg"></Child>
+```
+
+在vue3中一个组件可以通过使用多个v-model,让父组件多个数据同步，下方代码相当于给组件Child传递两个props分别是pageNo与pageSize,以及绑定两个自定义事件update:pageNo与update:pageSize实现父子数据同步
+
+````html
+<Child v-model:pageNo="msg" v-model:pageSize="msg1"></Child>
+````
+
